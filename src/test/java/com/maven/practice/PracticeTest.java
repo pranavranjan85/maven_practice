@@ -28,5 +28,10 @@ public class PracticeTest
 		String browser = System.getProperty("browser");
 		String url = System.getProperty("URL");
 	}
+	@Test
+	public void gitPractice()
+	{
+		System.out.println("hii git");
+	}
 
 }
