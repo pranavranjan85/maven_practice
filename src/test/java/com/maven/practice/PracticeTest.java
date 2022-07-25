@@ -32,6 +32,9 @@ public class PracticeTest
 	public void gitPractice()
 	{
 		System.out.println("hii git");
+		System.out.println("do some update git");
+		System.out.println("bye git");
+		
 	}
 
 }
